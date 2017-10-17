@@ -1,0 +1,132 @@
+.casa-caja {
+  width: 1250px;
+  height: 600px;
+  background-color: #e0f7fa;
+}
+
+
+.pasto {
+  width: 1250px;
+  height: 80px;
+  background-color:  #388e3c;
+  position: absolute;
+  top: 550px;
+  border: 1px solid black;
+}
+
+.base {
+  width: 300px;
+  height: 200px;
+  background-color: #e57373;
+  border: 1px solid black;
+  position: absolute;
+  top: 350px;
+  left: 400px;
+}
+
+.techo {
+  width: 250px;
+   height: 0px;
+   border-right: 60px solid transparent;
+   border-left: 60px solid transparent;
+   border-bottom: 130px solid  #424242;
+   position: absolute;
+   top: 220px;
+   left: 370px;
+}
+
+.ventana1 {
+  width: 40px;
+  height: 90px;
+  background-color: lightblue;
+  border: 1px solid black;
+  position: absolute;
+  top: 400px;
+  left: 440px;
+}
+
+.ventana2 {
+  width: 40px;
+  height: 90px;
+  background-color: lightblue;
+  border: 1px solid black;
+  position: absolute;
+  top: 400px;
+  left: 620px;
+}
+
+.puerta{
+  width: 70px;
+  height: 150px;
+  background-color:  #795548;
+  border: 1px solid black;
+  position: absolute;
+  top: 400px;
+  left: 515px;
+}
+
+.chimenea{
+  width: 40px;
+  height: 55px;
+  background-color: #263238;
+  position: absolute;
+  top: 180px;
+  left: 600px;
+}
+
+.humo1 {
+  width: 30px;
+  height:30px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background: #90a4ae;
+  position: absolute;
+  top: 130px;
+  left: 610px;
+}
+
+.humo2{
+  width: 20px;
+  height: 20px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background: #b0bec5;
+  position: absolute;
+  top: 100px;
+  left: 625px;
+}
+
+.humo3{
+  width: 15px;
+  height: 15px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background: #cfd8dc;
+  position: absolute;
+  top: 80px;
+  left: 650px;;
+}
+
+.tronco-arbol{
+  width: 30px;
+  height: 100px;
+  background-color: #4e342e;
+  position: absolute;
+  top: 450px;
+  left: 900px;
+}
+
+.hojas-arbol{
+  width: 126px;
+  height: 180px;
+  background-color: #5cb85c;
+  -moz-border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+  -webkit-border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+  border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+  position: absolute;
+  top: 280px;
+  left: 850px;
+}
